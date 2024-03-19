@@ -11,3 +11,4 @@ class FileAttente:
             print("Personne supprimée de la file d'attente:", nom)
         else:
             print("File d'attente vide.")
+   
