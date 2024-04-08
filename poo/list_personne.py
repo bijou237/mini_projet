@@ -23,3 +23,6 @@ class ListePersonnes:
         for personne in self._personnes:
             if min_age <= personne.age <= max_age:
                 personne.afficher_details()
+
+
+
